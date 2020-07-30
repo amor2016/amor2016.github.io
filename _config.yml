@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: Leo Ma
+description: This is Leo' home.
 logo: favicon.png
-url: ikongsong.com
+url: mahaobo.com
 rss_url: /feed.xml
 
 # Jekyll
@@ -21,8 +21,8 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
+  disqus: leoma    
+  # duoshuo: leoma
   # youyan: 2122392
   # laibili: MTAyMC8yODgzNC81NDA0
   gitalk: true
@@ -34,17 +34,17 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong. This is my online home & blog, where I share thoughts about front-end development, cloud computing, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: Leo Ma     #the name of Blog section
+  about_me: I'm Leo Ma. This is my online home & blog, where I share thoughts about front-end development, cloud computing, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
  
 # Social Links
-email:               hi@ikongsong.com
+email:               2297277@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:           username
+github:              amor2016
+#stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           username
 #xing:              username
 #instagram:          username
 #lastfm:            username
